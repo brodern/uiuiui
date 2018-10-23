@@ -1,0 +1,87 @@
+<!-- 顶部导航 -->
+<swiper indicator-dots="true" autoplay="true" interval="2000" duration="1000" circular="true">
+   <swiper-item class="top">
+      <image src="../sci/rmmsqdsgff.jpg" mode="scaleToFill"></image>
+      <image src="../sci/3651.jpg" mode="scaleToFill"></image>
+   </swiper-item>
+   <swiper-item class="top">
+      <image src="../sci/3.jpg" mode="scaleToFill"></image>
+      <image src="../sci/4.jpg" mode="scaleToFill"></image>
+   </swiper-item>
+   <swiper-item class="top">
+      <image src="../sci/5.jpg" mode="scaleToFill"></image>
+      <navigator url="../gushi/gushi">
+        <image class="pic" src="../sci/6.jpg" mode="scaleToFill"></image>
+      </navigator>
+   </swiper-item>
+</swiper>
+<view class= "middle-t">
+ 幼儿读物
+</view>
+<view class="middle-m">
+    <image src="../sci/ksjgs.jpg" mode="scaleToFill"></image>
+    <navigator url="../ks/ks">
+      <view class="middle-m-r">
+        <view class="title" style="color:#f6d935">内容简介</view>
+        <view class="detail">《凯叔365夜》是一套涵盖了古今中外经典故事的合集，其中包括《西方经典童话》《中国传统故事》和《99个成语故事》。</view>
+      </view>
+    </navigator>
+</view>
+<view class="middle-m">
+    <image src="../sci/36591.jpg" mode="scaleToFill" style="padding-right: 10px"></image>
+    <navigator url="../ks/ks">
+      <view class="middle-m-r">
+        <view class="title"  style="color:#82b586">内容简介</view>
+        <view class="detail">一年三百六十五天，这本集子供年轻的父母每晚给孩子讲一个故事，就象莳花人每天一早起来，给刚刚吐芽的花木浇一勺水。</view>
+      </view>
+    </navigator>
+</view>
+<view class="middle-m">
+    <image src="../sci/4.jpg" mode="scaleToFill"></image>
+    <navigator url="../ks/ks">
+      <view class="middle-m-r">
+        <view class="title"  style="color:#0087c3">内容简介</view>
+        <view class="detail">挫折教育 挫折、猜疑、失败、冷落等这些负面情绪来到孩子们身边时,我们要正确引导面对,让孩子战胜困难,变得坚强!</view>
+      </view>
+    </navigator>
+</view>
+<view class="middle-m">
+    <image src="../sci/31.jpg" mode="scaleToFill"></image>
+    <navigator url="../ks/ks">
+      <view class="middle-m-r">
+        <view class="title"  style="color:#cfdd3f">内容简介</view>
+        <view class="detail">一打开，便能看到一幅幅生动的图画，在这里可以感受到中华文化的魅力</view>
+      </view>
+    </navigator>
+</view>
+<view class="middle-m">
+    <image src="../sci/3zj.jpg" mode="scaleToFill"></image>
+    <navigator url="../szj/szj">
+      <view class="middle-m-r">
+        <view class="title" style="color:#de7310">内容简介</view>
+        <view class="detail">人之初，性本善。性相近，习相远。
+          苟不教，性乃迁。教之道，贵以专。
+          昔孟母，择邻处。子不学，断机杼。
+        </view>
+      </view>
+    </navigator>
+</view>
+<view class="middle-m">
+    <image src="../sci/h1.png" mode="scaleToFill"></image>
+    <navigator url="../ks/ks">
+      <view class="middle-m-r">
+        <view class="title" style="color:#f6d935">内容简介</view>
+        <view class="detail">面对一只蠢兔子、一头田园猪、一条懒狗和一只脾气火爆的母鸡，一只孱弱的狐狸想树立起他食肉猛兽的地位。可..</view>
+      </view>
+    </navigator>
+</view>
+<view class="middle-m">
+    <image src="../sci/hpp.jpg" mode="scaleToFill"></image>
+    <navigator url="../ks/ks">
+      <view class="middle-m-r">
+        <view class="title" style="color:#94730a">内容简介</view>
+        <view class="detail">作者是库尼，主要讲述了一位风烛残年的老婆婆时告诉年轻的叙述者小的时候所答应过爷爷的三件事。
+</view>
+      </view>
+    </navigator>
+</view>

@@ -1,0 +1,20 @@
+.smaltitle{
+  color: #36b8bd;
+  font-size: 22px;
+  text-align:center;
+  margin-bottom: 5xp;
+  border-bottom: 1px dotted #d3d3d3;
+}
+.smaller{
+  color: #07e1e9;
+  font-size: 18px;
+  text-align:center;
+  margin-bottom: 5xp;
+}
+.content{
+  text-indent: 32px;
+  font-size: 15px;
+}
+Page{
+  background-color: #a0daf6;
+}

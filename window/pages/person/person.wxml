@@ -1,0 +1,23 @@
+<view class="bigbody">
+  <view class="myself">
+   <image src="../lci/head.jpg" style="width: 68px; height:68px;border:1px solid #000;float:left; margin:20px 20px;border-radius: 50%"></image>
+   <view class="username">用户名：</view>
+   <view class="bookitems">阅读数量：</view>
+   <view class="phones">手机号：</view>
+   <view class="like">喜欢的书型：</view>
+ </view>
+
+  <view class="list">
+    <view class="collect" style="background:url(../lci/one.png) no-repeat 5px 5px; background-size:35rpx 35rpx"><text>我的收藏</text></view>
+    <view class="collect" style="background:url(../lci/two.png) no-repeat 5px 5px; background-size:35rpx 35rpx"><text>历史观看</text></view>
+    <view class="collect" style="background:url(../lci/three.png) no-repeat 5px 5px; background-size:35rpx 35rpx"><text>新手帮助</text></view>
+    <view class="collect" style="background:url(../lci/four.png) no-repeat 5px 5px; background-size:35rpx 35rpx"><text>版本号</text></view>
+    <view class="collect" style="background:url(../lci/six.png) no-repeat 5px 5px; background-size:35rpx 35rpx"><text>密码修改</text></view>
+  </view>
+<navigator open-type="switchTab" url="../ertong/ertong">
+  <button class="btn">登录</button>
+</navigator>
+
+</view>
+
+ 

@@ -1,0 +1,58 @@
+{ 
+  "pages":[
+    "pages/login/login",
+    "pages/start/start",
+    "pages/index/index",
+    "pages/sc/sc",
+    "pages/ks/ks",
+    "pages/szj/szj",
+    "pages/gushi/gushi",
+    "pages/ertong/ertong",
+    "pages/person/person"
+    
+
+  ],
+  "window": {
+    
+    "backgroundColor": "#cbe053",
+    "navigationBarBackgroundColor": "#cbe053",
+    "navigationBarTitleText":"乌龟屋",
+    "navigationBarTextStyle": "white"
+    
+  },
+  "tabBar":{
+    "color": "#fff",
+    "selectedColor": "#0d0d0d",
+    "backgroundColor": "#cbe053",
+    "borderStyle": "#000",
+    "position":"bottom",
+    "list":[
+      {
+        "pagePath":"pages/index/index",
+        "text":"主页",
+        "iconPath":"pages/otherimages/index.png",
+        "selectedIconPath":"pages/tabBar/11.png"
+      },
+      {
+        "pagePath": "pages/sc/sc",
+        "text": "幼儿",
+        "iconPath": "pages/otherimages/booktitle1.png",
+        "selectedIconPath": "pages/otherimages/booktitle22.png"
+      },
+      {
+        "pagePath": "pages/ertong/ertong",
+        "text": "儿童",
+        "iconPath": "pages/otherimages/booktitle2.png",
+        "selectedIconPath": "pages/otherimages/booktitle11.png"
+      },
+      {
+        "pagePath": "pages/person/person",
+        "text": "个人中心",
+        "iconPath": "pages/otherimages/person.png",
+        "selectedIconPath": "pages/otherimages/person.png"
+      }
+     
+    ]
+
+  }
+}

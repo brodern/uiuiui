@@ -1,0 +1,10 @@
+Page({
+  onLoad:function(options){
+    wx.showTabBar({
+     animation:true,
+     success:function(res){
+       console.log(res)
+     }
+   })
+  }
+})

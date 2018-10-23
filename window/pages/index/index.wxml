@@ -1,0 +1,12 @@
+<view class="all" style="background:url(../otherimages/wugui.jpeg) no-repeat;background-color:#aed575;background-size:300px 500px">
+    <view class="search"  style="background:url(../otherimages/search_logo.png) no-repeat 10px 9px;background-color:#fff;background-size:35rpx 35rpx">
+       <input style='text' placeholder="请输入您想要看的书目"></input>
+    </view>
+    <!-- <view class="title">welcome to 乌龟屋</view> -->
+    <navigator open-type="switchTab" url="../sc/sc">
+      <view class="indextitle">
+        <view class="titleone">到达书库</view>
+        <view class="titletwo">receive book library</view>
+      </view>
+    </navigator>
+</view>

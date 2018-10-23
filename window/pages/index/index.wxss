@@ -1,0 +1,35 @@
+.all{
+  height: 500px;
+  width:300px;
+}
+.search{
+  margin-left: 12px;
+  margin-top: 10px;
+  height: 30px;
+  border-radius: 40px;
+}
+.search input{
+  padding-top:3px;
+  padding-left: 50px;
+  color: #aed575
+}
+.title{
+  margin-top:10px;
+  color: #73bf00;
+  margin-left:45px;
+  font-size: 23px;
+}
+.indextitle{
+  margin-top:380px;
+  margin-left: 200px;
+  border: 1px dashed #73bf00;
+}
+.titleone{
+  margin-left:15px;
+  color:#00aeae;
+}
+.titletwo{
+  text-align: center;
+  color: #808080;
+}
+

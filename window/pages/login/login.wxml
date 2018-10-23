@@ -1,0 +1,7 @@
+<view class="big">
+  <view class="mid">
+     <open-data type="userAvatarUrl">     
+     </open-data>
+
+  </view>
+</view>

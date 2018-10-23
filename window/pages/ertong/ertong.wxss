@@ -1,0 +1,47 @@
+.top{
+  display:flex;
+}
+.top image{
+    height:150px;
+    width:150px;
+}
+.pic{
+    height:150px;
+    width:150px;
+}
+.middle-m{
+  margin-bottom: 10px;
+  display:flex;
+  border-bottom:1px dashed #d3d3d3;
+}
+.top image{
+   width:330px;
+}
+.middle-m image{
+  padding-right: 10px;
+  height: 160px;
+  width: 130px;
+}
+.middle-t{
+  padding-top:15px;
+  font-size: 30px;
+  height: 65px;
+  text-align: center;
+  color:#3cafe8;
+  background-color:#cbe053;
+}
+.middle-m-r{
+    width: 150px;
+}
+.middle-m-r .title{
+
+  text-align:center;
+  margin-bottom: 5px;
+}
+.middle-m-r .detail{
+  font-size: 15px;
+  color:#808080;
+}
+Page{
+  background-color: #ebede8;
+}

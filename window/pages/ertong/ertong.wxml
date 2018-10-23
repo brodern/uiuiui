@@ -1,0 +1,71 @@
+<view class = "top">
+  <image src="../lci/ds.png" style="height: 200px"></image>
+</view>
+<view class= "middle-t">
+ 儿童读物
+</view>
+<view class="middle-m">
+    <image src="../lci/1.jpg" mode="scaleToFill"></image>
+    <navigator url="../ks/ks">
+      <view class="middle-m-r">
+        <view class="title" style="color:#c89942">内容简介</view>
+        <view class="detail">海蒂从小父母双亡，生活在贫穷的环境中，由姨妈抚养长大。后来姨妈找到了一份工作，不能继续照顾海蒂，就把她送到了爷爷那里..</view>
+      </view>
+    </navigator>
+</view>
+<view class="middle-m">
+    <image src="../lci/2.jpg" mode="scaleToFill" style="padding-right: 10px"></image>
+    <navigator url="../ks/ks">
+      <view class="middle-m-r">
+        <view class="title"  style="color:#4b4579">内容简介</view>
+        <view class="detail">有哪些先进的设备可以帮我们观察宇宙呢？各个国家发射了什么卫星执行各种任务？宇航员在太空怎么生活？卫星、行星、恒星怎么运动？银河系、...</view>
+      </view>
+    </navigator>
+</view>
+<view class="middle-m">
+    <image src="../lci/3.jpg" mode="scaleToFill"></image>
+    <navigator url="../ks/ks">
+      <view class="middle-m-r">
+        <view class="title"  style="color:#54d9e3">内容简介</view>
+        <view class="detail">《国际大奖小说:35公斤的希望》是一部真实的小说，主人公仿佛就生活在我们身边：不爱学习，讨厌学校，害怕体育课...</view>
+      </view>
+    </navigator>
+</view>
+<view class="middle-m">
+    <image src="../lci/4.jpg" mode="scaleToFill"></image>
+    <navigator url="../ks/ks">
+      <view class="middle-m-r">
+        <view class="title"  style="color:#8e7ea0">内容简介</view>
+        <view class="detail">一打开，便能看到一幅幅生动的图画，在这里可以感受到中华文化的魅力</view>
+      </view>
+    </navigator>
+</view>
+<view class="middle-m">
+    <image src="../lci/5.jpg" mode="scaleToFill"></image>
+    <navigator url="../szj/szj">
+      <view class="middle-m-r">
+        <view class="title" style="color:#cdb276">内容简介</view>
+        <view class="detail">一只蟋蟀、一只老鼠和一只猫咪之间的真挚友情足以温暖这个冰冷的世界。任何读过这本书的人，无论孩子还是成...
+        </view>
+      </view>
+    </navigator>
+</view>
+<view class="middle-m">
+    <image src="../lci/6.jpg" mode="scaleToFill"></image>
+    <navigator url="../ks/ks">
+      <view class="middle-m-r">
+        <view class="title" style="color:#867558">内容简介</view>
+        <view class="detail">蓝鲸是大海中不容冒犯的神灵，它只吃海面上闪闪烁烁的星星，它最珍爱它的眼睛，因为大海的...</view>
+      </view>
+    </navigator>
+</view>
+<view class="middle-m">
+    <image src="../lci/7.jpg" mode="scaleToFill"></image>
+    <navigator url="../ks/ks">
+      <view class="middle-m-r">
+        <view class="title" style="color:#9d8b87">内容简介</view>
+        <view class="detail">作者是库尼，主要讲述了一位风烛残年的老婆婆时告诉年轻的叙述者小的时候所答应过爷爷的三件事。
+</view>
+      </view>
+    </navigator>
+</view>

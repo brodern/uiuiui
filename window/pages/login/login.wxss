@@ -1,0 +1,13 @@
+.big{
+  margin: 200rpx 0;
+
+}
+.mid{
+  height: 100px;
+  width: 100px;
+  /* overflow: hidden; */
+  margin: 0 auto;
+   border-radius: 50%;
+  /* border-radius: 50%; */
+  border: 1px solid transparent;
+}

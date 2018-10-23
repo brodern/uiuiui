@@ -1,0 +1,13 @@
+<view class="box">
+  <view class='img'>
+    <image src='../lci/head.jpg'></image>
+  </view>
+  <view class='input'>
+    <text>只要你想我们就有!</text>
+    <input class='create-title' placeholder="请输入你的密码" bindinput="voteTitle" value='{{val}}' password></input>
+  </view>
+  <view class='btn'>
+    <button bindtap="bindchange">立即登录</button>
+  </view>
+
+</view>
